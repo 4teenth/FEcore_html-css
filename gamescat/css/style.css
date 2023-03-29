@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.btn {
+  background-color: coral;
+  border: 1px solid lightcoral;
+  color: white;
+  font-size: 1rem;
+}
+.btn-dark {
+  line-height: 2rem;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.main-title {
+  font-size: 2rem;
+}
+.main-desc {
+  color: #525252;
+  font-size: 1rem;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+.sect-title {
+  font-size: 1.5rem;
+}
+.card-desc,
+.sect-desc,
+.ftr-desc,
+.ftr-sign {
+  font-size: 0.8rem;
+}
+.ftr-title {
+  font-size: 1rem;
+}
+.btn-ftr {
+  font-size: 1rem;
+}
